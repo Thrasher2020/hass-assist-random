@@ -1,0 +1,9 @@
+{
+  "entity": {
+    "conversation": {
+      "random_assist": {
+        "default": "mdi:dice-multiple"
+      }
+    }
+  }
+}

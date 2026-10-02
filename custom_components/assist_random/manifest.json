@@ -1,0 +1,9 @@
+{
+  "domain": "assist_random",
+  "name": "Random Assist Agent",
+  "config_flow": true,
+  "single_config_entry": true,
+  "integration_type": "service",
+  "iot_class": "local_push",
+  "version": "1.0.0"
+}

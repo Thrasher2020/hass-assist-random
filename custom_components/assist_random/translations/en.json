@@ -1,0 +1,40 @@
+{
+  "config": {
+    "error": {
+      "no_agents": "Select at least one conversation agent."
+    },
+    "abort": {
+      "already_configured": "Random Assist Agent is already configured. Use its options menu to change the agents."
+    },
+    "step": {
+      "user": {
+        "title": "Random Assist Agent",
+        "description": "Choose which conversation agents your satellite may pick from. Each new conversation picks one at random, then stays with it for follow-ups.",
+        "data": {
+          "agents": "Conversation agents"
+        }
+      }
+    }
+  },
+  "options": {
+    "error": {
+      "no_agents": "Select at least one conversation agent."
+    },
+    "step": {
+      "init": {
+        "title": "Random Assist Agent",
+        "description": "Choose which conversation agents your satellite may pick from. Each new conversation picks one at random, then stays with it for follow-ups.",
+        "data": {
+          "agents": "Conversation agents"
+        }
+      }
+    }
+  },
+  "entity": {
+    "conversation": {
+      "random_assist": {
+        "name": "Random Assist"
+      }
+    }
+  }
+}
